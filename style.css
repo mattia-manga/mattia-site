@@ -106,6 +106,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .section h2, .section-title { font-size: clamp(2.5rem, 5vw, 4.7rem); }
 .section-title { margin-bottom: 56px; }
 .section-title.light { color: white; }
+.section-subtitle { margin: -32px 0 40px; color: var(--muted); font-size: 1rem; }
+.section-subtitle.light { color: #b7bcb9; }
 .prose { font-size: 1.12rem; color: #474640; }
 .prose p:first-child { margin-top: 0; }
 .prose p + p { margin-top: 22px; }
